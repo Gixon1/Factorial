@@ -1,0 +1,10 @@
+C:\Users\Gixao\source\repos\Testing\Testing\bin\Debug\Testing.dll
+C:\Users\Gixao\source\repos\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\Gixao\source\repos\Testing\Testing\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Gixao\source\repos\Testing\Testing\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Gixao\source\repos\Testing\Testing\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Gixao\source\repos\Testing\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\Gixao\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Gixao\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\Gixao\source\repos\Testing\Testing\obj\Debug\Testing.dll
+C:\Users\Gixao\source\repos\Testing\Testing\obj\Debug\Testing.pdb
